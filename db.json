@@ -1,0 +1,135 @@
+{
+  "users": [
+    {
+      "username": "muneesh",
+      "email": "",
+      "number": "",
+      "password": "123456",
+      "cpassword": "123456",
+      "id": 1
+    },
+    {
+      "username": "sahil",
+      "email": "sahil@gmail.com",
+      "number": "7896541230",
+      "password": "123456",
+      "cpassword": "123456",
+      "id": 2
+    },
+    {
+      "username": "asdd",
+      "email": "qwsa@gmail.com",
+      "number": "7418529630",
+      "password": "qwert",
+      "cpassword": "qwert",
+      "id": 3
+    },
+    {
+      "username": "asdd",
+      "email": "qwsa@gmail.com",
+      "number": "7418529630",
+      "password": "qwert",
+      "cpassword": "qwert",
+      "id": 4
+    },
+    {
+      "username": "asdd",
+      "email": "qwsa@gmail.com",
+      "number": "7418529630",
+      "password": "qwert",
+      "cpassword": "qwert",
+      "id": 5
+    },
+    {
+      "name": "muna",
+      "number": "",
+      "password": "123456",
+      "cpassword": "123456",
+      "id": 6
+    },
+    {
+      "name": "muna",
+      "number": "",
+      "password": "123456",
+      "cpassword": "123456",
+      "id": 7
+    },
+    {
+      "name": "muna",
+      "number": "",
+      "password": "123456",
+      "cpassword": "123456",
+      "id": 8
+    },
+    {
+      "name": "muna",
+      "number": "",
+      "password": "123456",
+      "cpassword": "123456",
+      "id": 9
+    },
+    {
+      "name": "muna",
+      "number": "",
+      "password": "123456",
+      "cpassword": "123456",
+      "id": 10
+    },
+    {
+      "name": "muna",
+      "number": "",
+      "password": "123456",
+      "cpassword": "123456",
+      "id": 11
+    },
+    {
+      "name": "muna",
+      "number": "",
+      "password": "123456",
+      "cpassword": "123456",
+      "id": 12
+    },
+    {
+      "name": "muna",
+      "number": "",
+      "password": "123456",
+      "cpassword": "123456",
+      "id": 13
+    },
+    {
+      "name": "muna",
+      "number": "",
+      "password": "123456",
+      "cpassword": "123456",
+      "id": 14
+    },
+    {
+      "name": "muna",
+      "number": "",
+      "password": "123456",
+      "cpassword": "123456",
+      "id": 15
+    },
+    {
+      "name": "muneesh1",
+      "number": "",
+      "password": "123456",
+      "cpassword": "123456",
+      "id": 16
+    },
+    {
+      "name": "mk",
+      "number": "",
+      "password": "123456",
+      "cpassword": "123456",
+      "id": 17
+    },
+    {
+      "username": "muneesh",
+      "number": "7876040287",
+      "password": "123456",
+      "cpassword": "",
+      "id": 18
+    }
+  ]
+}
